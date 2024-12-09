@@ -18,7 +18,7 @@
 
 ***Клонирование репозитория***
 ```bash
-git clone <repo-url>  
+git clone https://github.com/justatrade/kafka-cli.git  
 cd kafka-cli  
 ```
 
